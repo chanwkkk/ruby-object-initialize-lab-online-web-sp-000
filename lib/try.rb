@@ -1,3 +1,5 @@
+k=Try.new
+
 class Try
   puts 'I am trying!'
   puts 'hello!'
