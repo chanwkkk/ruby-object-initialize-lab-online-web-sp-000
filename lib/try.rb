@@ -1,4 +1,3 @@
-k=Try.new
 
 class Try
   puts 'I am trying!'
@@ -8,3 +7,4 @@ end
 puts 'hello from the other side'
 
 j=Try.new
+k=Try.new
