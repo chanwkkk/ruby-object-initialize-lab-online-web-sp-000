@@ -6,3 +6,5 @@ class Try
 end
 
 puts 'hello from the other side'
+
+j=Try.new
