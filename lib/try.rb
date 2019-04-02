@@ -1,4 +1,4 @@
-class try
+class Try
   puts 'I am trying!'
   puts 'hello!'
 end
